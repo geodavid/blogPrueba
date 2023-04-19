@@ -1,7 +1,7 @@
 body{
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
-    color: brown;
+    font-family: "open sans";
+    color: rgb(109, 123, 109);
     border: solid 1px gray;
     border-radius: 5px;
     box-shadow: 3px 3px 5px gray;
